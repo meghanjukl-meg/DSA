@@ -1,6 +1,4 @@
 ﻿
-
-
 ### Data Science
 
  The science of analysing and extracting information from large sets of data, which typically combines elements of statistics,maths,computing, and other subjects
